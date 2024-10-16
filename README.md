@@ -67,11 +67,6 @@ This repository contains a collection of ad-hoc SQL queries designed to analyze 
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## Contact Us 📧
-
-If you have any questions, need further assistance or suggestions, please feel free to contact us at  [email](mailto:adityakakadeoffice@gmail.com) (<Click here) adityakakadeoffice@gmail.com.
-OR  
-Reach out to us using the [Contact Form](https://forms.gle/cEcJ9uEiz1XVbsuw8).
 
 ## Inspirational Quote for Coders 💻
 > #### "Embrace the beauty of coding - where creativity meets logic, and imagination shapes the future." 🌟
